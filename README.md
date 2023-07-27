@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Getting Started with the App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hey there 👋 welcome to my Repository of Netflix Clone!
 
-## Available Scripts
+## Deployment
 
-In the project directory, you can run:
+you can view my website here [https://deepsnetflix.netlify.app/](https://deepsnetflix.netlify.app/)
 
-### `npm start`
+### 1. Backbone of the App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Completely buid with React.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project make use Google Firebase for backend user authentication for Sign In and Sign Up functionalities.
 
-### `npm test`
+React Redux library was implemented.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### 2. How about going through the website
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The link will take you to the landing page where you can find many movies and webseries.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Sliders are used to give a better immersive experience to the user.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You can also use Filter options to view movies and Tv Shows based on the genre you like.
 
-### `npm run eject`
+####  Sign Up Functionality
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You will be redirected to Sign Up page.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You can scroll down to view the verious devices and features supported by the website.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+You can enter your email id and password to Get Started with registration and using the web app.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### Sign In Functionality
 
-## Learn More
+You can sign in to the website.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Uses Google's Firebase to authenticate the user whether the user is a registered user or not.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can also click on Admin Login option to Login into the Admin page where you can add and remove movies to the website. 
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 3. Deployment
 
-### Making a Progressive Web App
+deployed on Netlify [https://deepsnetflix.netlify.app/](https://deepsnetflix.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### That's it you are good to go!, Hope you like my app.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
