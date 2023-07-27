@@ -40,6 +40,11 @@ Uses Google's Firebase to authenticate the user whether the user is a registered
 You can also click on Admin Login option to Login into the Admin page where you can add and remove movies to the website. 
 
 
+#### Log Out
+
+You can find the logout button to the top right corner of the website.
+
+Click on that button and you will be redirected back to the Sign In webpage.
 
 
 ### 3. Deployment
