@@ -8,7 +8,9 @@ you can view my website here [https://deepsnetflix.netlify.app/](https://deepsne
 
 ### 1. Backbone of the App
 
-Completely buid with React.
+This project was part of my Summer Training cum Internship Program at Celebal Technologies.
+
+Completely build with React.
 
 This project make use Google Firebase for backend user authentication for Sign In and Sign Up functionalities.
 
